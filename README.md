@@ -6,7 +6,7 @@ Fiber door manufacturer, Gujar Khan (since 2016). Plain HTML, CSS and JavaScript
 | File | What it does |
 | --- | --- |
 | `index.html` | Home page (hero, stats, services, comparison, about, why choose us, top designs, steps, reviews, CTA) |
-| `fiber-doors.html` | 66 doors + 4 beading + 1 frame, filter chips, article search, lightbox |
+| `fiber-doors.html` | 74 doors + 8 beading + 1 frame, filter chips, article search, lightbox |
 | `portfolio.html` | 30 project photos in a mixed grid with lightbox |
 | `feedback.html` | Rating / Complaint / Appreciation forms that open WhatsApp, plus reviews |
 | `disclaimer.html` | Website disclaimer |
@@ -17,7 +17,7 @@ Fiber door manufacturer, Gujar Khan (since 2016). Plain HTML, CSS and JavaScript
 
 ## Images to upload (same folder as the HTML files)
 `logo.png`, `heroimage.png` (9:16), `about.png` (16:9), `card1.png` to `card4.png`,
-`article1.png` to `article66.png` (square 1:1), `beading1.png` to `beading4.png`, `frame1.png`,
+`article1.png` to `article74.png` (square 1:1), `beading1.png` to `beading8.png`, `frame1.png`,
 `portfolio1.png` to `portfolio30.png`.
 Missing images simply show an empty placeholder until you upload them.
 
